@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Block admin panel from search engine indexing
+Disallow: /manage-
+
+Sitemap: https://zhstraders.com/sitemap.xml
